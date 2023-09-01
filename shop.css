@@ -23,6 +23,7 @@ header {
 
 body {
     height: 100vh;
+    max-width: 100%;
     background: url(img/Frame_33.png) no-repeat;
     background-size: cover;
     background-attachment: fixed;
